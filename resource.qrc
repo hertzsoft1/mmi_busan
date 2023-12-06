@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/Button1.png</file>
+        <file>image/Button2.png</file>
+        <file>image/Button3.png</file>
+        <file>image/Left.png</file>
+        <file>image/LeftOpen.png</file>
+        <file>image/Right.png</file>
+        <file>image/RightOpen.png</file>
+        <file>image/ADC.png</file>
+        <file>image/Button4.png</file>
+        <file>image/Button5.png</file>
+        <file>image/DOLP.png</file>
+        <file>image/DORP.png</file>
+        <file>image/Button6.png</file>
+        <file>image/Button7.png</file>
+        <file>image/ADC_ON.png</file>
+        <file>image/DOLP_ON.png</file>
+        <file>image/DORP_ON.png</file>
+        <file>image/Logo.jpg</file>
+        <file>image/Busan_Logo.png</file>
+        <file>image/Logo_SH.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>font/DS-DIGI.TTF</file>
+        <file>font/DS-DIGIB.TTF</file>
+        <file>font/DS-DIGII.TTF</file>
+        <file>font/DS-DIGIT.TTF</file>
+    </qresource>
+    <qresource prefix="/Sound">
+        <file>sound/Sound_Info.wav</file>
+        <file>sound/S1.wav</file>
+        <file>sound/S_Click.wav</file>
+        <file>sound/S_Info.wav</file>
+        <file>sound/S_Volume.wav</file>
+        <file>sound/Sound_S1.wav</file>
+        <file>sound/Sound_S2.wav</file>
+        <file>sound/ChimeLong.wav</file>
+        <file>sound/ChimeShort.wav</file>
+    </qresource>
+</RCC>
